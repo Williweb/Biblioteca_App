@@ -1,0 +1,16 @@
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\bin\Debug\net8.0-windows\BibliotecaApp.exe
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\bin\Debug\net8.0-windows\BibliotecaApp.deps.json
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\bin\Debug\net8.0-windows\BibliotecaApp.runtimeconfig.json
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\bin\Debug\net8.0-windows\BibliotecaApp.dll
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\bin\Debug\net8.0-windows\BibliotecaApp.pdb
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.MainForm.resources
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.csproj.GenerateResource.cache
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.AssemblyInfo.cs
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.dll
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\refint\BibliotecaApp.dll
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.pdb
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\BibliotecaApp.genruntimeconfig.cache
+C:\Users\soray\OneDrive\Escritorio\BibliotecaApp\BibliotecaApp\obj\Debug\net8.0-windows\ref\BibliotecaApp.dll

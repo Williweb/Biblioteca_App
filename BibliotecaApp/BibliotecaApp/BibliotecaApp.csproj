@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<!-- Tipo de aplicación Windows -->
+		<OutputType>WinExe</OutputType>
+
+		<!-- Framework -->
+		<TargetFramework>net8.0-windows</TargetFramework>
+
+		<!-- Activar Windows Forms -->
+		<UseWindowsForms>true</UseWindowsForms>
+
+		<!-- Habilitar usings implícitos -->
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<!-- Nullable activado -->
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+</Project>
